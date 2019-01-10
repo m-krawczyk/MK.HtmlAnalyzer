@@ -1,16 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using MK.HtmlAnalyzer.AppLogic;
-using MK.HtmlAnalyzer.Model;
+﻿using MK.HtmlAnalyzer.AppLogic.Interfaces.Stats;
 using MK.HtmlAnalyzer.AppLogic.Presenters.Stats;
-using MK.HtmlAnalyzer.AppLogic.Interfaces.Stats;
+using MK.HtmlAnalyzer.Model;
+using System;
+using System.Collections.Generic;
+using System.Windows.Forms;
 
 namespace MK.HtmlAnalyzer.App.Stats
 {

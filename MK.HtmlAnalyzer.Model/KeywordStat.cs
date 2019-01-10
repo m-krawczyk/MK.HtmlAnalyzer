@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MK.HtmlAnalyzer.Model
+﻿namespace MK.HtmlAnalyzer.Model
 {
     public class KeywordStat
     {
-        public string Keyword { get; set; }
+        public KeywordStat(string keyword)
+        {
+            Keyword = keyword;
+        }
+        public string Keyword { get; }
         public int Occurences { get; set; }
     }
 }

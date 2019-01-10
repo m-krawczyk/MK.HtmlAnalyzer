@@ -3,27 +3,33 @@ using MK.HtmlAnalyzer.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace MK.HtmlAnalyzer.DataAccess
 {
     public class HtmlRepository : IHtmlRepository
     {
+        #region PRIVATE FIELDS
+
         private const char SEPARATOR = ',';
+        private const string META_KEYWORD_ATTRIBUTE_NAME = "content";
         private const string KEYWORDS_XPATH = "//head/meta[@name='keywords']";
         private const string BODY_XPATH = "//body";
         private const string TEXT_XPATH = "//body//text()[normalize-space(.) != '']";
         private const string REGEX = @"\b({0})\b";
-        private List<string> BODY_NODES_TO_DELETE = new List<string>() { "script", "style" };
+        private readonly List<string> BODY_NODES_TO_DELETE = new List<string>() { "script", "style" };
+
+        #endregion
+
+        #region PUBLIC METHODS
 
         public IList<KeywordStat> GetStats(string url)
         {
-            HtmlDocument htmlDoc = new HtmlWeb().Load(url);
+            var htmlWeb = new HtmlWeb();
+            HtmlDocument htmlDoc = htmlWeb.Load(url);
 
             if (htmlDoc == null)
-                return null;
+                throw new NullReferenceException("htmlDoc");
 
             var list = GetKeywords(htmlDoc);
 
@@ -32,34 +38,41 @@ namespace MK.HtmlAnalyzer.DataAccess
                 RemoveUnwantedNodes(htmlDoc);
                 CountKeywords(list, htmlDoc);
             }
-            
+
             return list;
         }
 
-        private List<KeywordStat> GetKeywords(HtmlDocument html)
+        #endregion
+
+        #region PRIVATE METHODS
+
+        private List<KeywordStat> GetKeywords(HtmlDocument htmlDoc)
         {
-            if (html == null)
-                return null;
+            if (htmlDoc == null)
+                throw new ArgumentNullException("htmlDoc");
 
             List<KeywordStat> keywords = new List<KeywordStat>();
 
-            var headNode = html.DocumentNode.SelectSingleNode(KEYWORDS_XPATH); ;
+            var metaKeywordNode = htmlDoc.DocumentNode.SelectSingleNode(KEYWORDS_XPATH); ;
 
-            if (headNode.Attributes == null)
-                return null;
+            if (metaKeywordNode == null)
+                throw new NullReferenceException("metaKeywordNode");
 
-            var contentAttr = headNode.Attributes.FirstOrDefault(x => x.Name == "content");
+            var contentAttr = metaKeywordNode
+                .Attributes
+                .FirstOrDefault(x => x.Name == META_KEYWORD_ATTRIBUTE_NAME);
 
-            if (contentAttr != null)
-            {
-                var arr = contentAttr.Value.ToString().Split(SEPARATOR);
+            if (contentAttr == null)
+                throw new NullReferenceException("contentAttr");
 
-                if (arr != null && arr.Length > 0)
-                {
-                    foreach (var word in arr)
-                        keywords.Add(new KeywordStat() { Keyword = word });
-                }
-            }
+            var arr = contentAttr.Value.ToString().Split(new char[] { SEPARATOR }, StringSplitOptions.RemoveEmptyEntries);
+
+            if (arr == null || arr.Length == 0)
+                throw new NullReferenceException("empty keyword content");
+
+            foreach (var word in arr)
+                keywords.Add(new KeywordStat(word));
+
             return keywords;
         }
 
@@ -89,8 +102,9 @@ namespace MK.HtmlAnalyzer.DataAccess
 
         private int CountOccurences(string key, string text)
         {
-            return Regex.Matches(text, String.Format(REGEX, key)).Count;
+            return Regex.Matches(text, String.Format(REGEX, key), RegexOptions.IgnoreCase).Count;
         }
 
+        #endregion
     }
 }
