@@ -129,9 +129,9 @@
         "p2": "Gabriel Diallo",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "9",
+            "df": "4",
+            "b": "2"
         },
         "stats2": {
             "ace": null,
@@ -385,9 +385,9 @@
         "p2": "Tiantsoa Sarah Rakotomanga Rajaonah",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "7#4",
+            "df": "3#1",
+            "b": "2#2"
         },
         "stats2": {
             "ace": null,
@@ -431,14 +431,14 @@
         "p2": "Cameron Norrie",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "4",
+            "df": "5",
+            "b": "1"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "3",
+            "df": "1",
+            "b": "2"
         },
         "A": [
             {
@@ -584,14 +584,14 @@
         "p2": "Adam Walton",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "5#5#2#9#5#8",
+            "df": "0#1#0#2#3#2",
+            "b": "0#2#2#2#2#1"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "9#10#4#20#9#5",
+            "df": "3#2#1#5#1#4",
+            "b": "0#2#0#1#1#0"
         },
         "A": [
             {
@@ -722,9 +722,9 @@
             "b": null
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "2",
+            "df": "7",
+            "b": "0"
         },
         "A": [
             {
@@ -846,9 +846,9 @@
             "b": null
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "0",
+            "df": "3",
+            "b": "0"
         },
         "A": [
             {
@@ -913,9 +913,9 @@
             "b": null
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "3",
+            "df": "7",
+            "b": "0"
         },
         "A": [
             {
@@ -1199,9 +1199,9 @@
             "b": null
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1",
+            "df": "6",
+            "b": "0"
         },
         "A": [
             {
@@ -1391,14 +1391,14 @@
         "p2": "Emma Raducanu",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1#1#1#1#1#1",
+            "df": "2#6#2#2#2#2",
+            "b": "2#2#2#2#2#0"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1#1#0#3#5#5",
+            "df": "4#3#4#5#4#2",
+            "b": "0#2#1#1#1#2"
         },
         "A": [
             {
@@ -1437,9 +1437,9 @@
         "p2": "Leolia Jeanjean",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "2#5",
+            "df": "0#5",
+            "b": "2#0"
         },
         "stats2": {
             "ace": null,
@@ -1509,9 +1509,9 @@
             "b": null
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "20",
+            "df": "4",
+            "b": "2"
         },
         "A": [
             {
@@ -1657,9 +1657,9 @@
         "p2": "Venus Williams",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1",
+            "df": "6",
+            "b": "0"
         },
         "stats2": {
             "ace": null,
@@ -1990,9 +1990,9 @@
         "p2": "Corentin Moutet",
         "updateTime": "18:28",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "18",
+            "df": "5",
+            "b": "1"
         },
         "stats2": {
             "ace": "3",
