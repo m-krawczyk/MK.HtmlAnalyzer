@@ -4,6 +4,8 @@
         "eventName": "Anna Kalinskaya - Sonay Kartal",
         "p1": "Anna Kalinskaya",
         "p2": "Sonay Kartal",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "2#1#1#2",
@@ -11,9 +13,9 @@
             "b": "2#2#0#2"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1#0#2#6",
+            "df": "0#0#1#1",
+            "b": "1#2#1#0"
         },
         "A": [
             {
@@ -66,16 +68,18 @@
         "eventName": "Ashlyn Krueger - Sara Bejlek",
         "p1": "Ashlyn Krueger",
         "p2": "Sara Bejlek",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "2#4#4#2#1#7",
+            "df": "9#2#2#7#2#2",
+            "b": "1#0#1#0#0#1"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1#1",
+            "df": "3#2",
+            "b": "0#2"
         },
         "A": [
             {
@@ -133,6 +137,8 @@
         "eventName": "Ben Shelton - Ugo Humbert",
         "p1": "Ben Shelton",
         "p2": "Ugo Humbert",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "6#12#6#7#7#7",
@@ -220,6 +226,8 @@
         "eventName": "Christopher O'Connell - Nishesh Basavareddy",
         "p1": "Christopher O'Connell",
         "p2": "Nishesh Basavareddy",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": null,
@@ -307,6 +315,8 @@
         "eventName": "Cristian Garin - Luciano Darderi",
         "p1": "Cristian Garin",
         "p2": "Luciano Darderi",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "6#10#2#2#4#2",
@@ -394,6 +404,8 @@
         "eventName": "Dane Sweeny - Gael Monfils",
         "p1": "Dane Sweeny",
         "p2": "Gael Monfils",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "3",
@@ -481,16 +493,18 @@
         "eventName": "Daria Kasatkina - Nikola Bartunkova",
         "p1": "Daria Kasatkina",
         "p2": "Nikola Bartunkova",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "4#1",
+            "df": "14#7",
+            "b": "1#2"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "2#4#9",
+            "df": "1#6#12",
+            "b": "0#1#1"
         },
         "A": [
             {
@@ -563,6 +577,8 @@
         "eventName": "Elena Rybakina - Kaja Juvan",
         "p1": "Elena Rybakina",
         "p2": "Kaja Juvan",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "6#11#10#10#8#3",
@@ -570,9 +586,9 @@
             "b": "2#2#2#2#2#2"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "4#3#2",
+            "df": "3#3#2",
+            "b": "0#1#0"
         },
         "A": [
             {
@@ -650,6 +666,8 @@
         "eventName": "Ethan Quinn - Tallon Griekspoor",
         "p1": "Ethan Quinn",
         "p2": "Tallon Griekspoor",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "5#10#10#1#4#5",
@@ -737,6 +755,8 @@
         "eventName": "Giovanni Mpetshi Perricard - Sebastian Baez",
         "p1": "Giovanni Mpetshi Perricard",
         "p2": "Sebastian Baez",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": null,
@@ -814,6 +834,8 @@
         "eventName": "Grigor Dimitrov - Tomas Machac",
         "p1": "Grigor Dimitrov",
         "p2": "Tomas Machac",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "11#7#4#15#11#26",
@@ -901,6 +923,8 @@
         "eventName": "Hubert Hurkacz - Zizou Bergs",
         "p1": "Hubert Hurkacz",
         "p2": "Zizou Bergs",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "14",
@@ -988,6 +1012,8 @@
         "eventName": "Hugo Gaston - Jannik Sinner",
         "p1": "Hugo Gaston",
         "p2": "Jannik Sinner",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "1#5",
@@ -1075,6 +1101,8 @@
         "eventName": "Jakub Mensik - Pablo Carreno-Busta",
         "p1": "Jakub Mensik",
         "p2": "Pablo Carreno-Busta",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "18#16#8#22#6#3",
@@ -1162,6 +1190,8 @@
         "eventName": "James Duckworth - Dino Prizmic",
         "p1": "James Duckworth",
         "p2": "Dino Prizmic",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "10#9#2#10#5",
@@ -1249,6 +1279,8 @@
         "eventName": "Joao Fonseca - Eliot Spizzirri",
         "p1": "Joao Fonseca",
         "p2": "Eliot Spizzirri",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "7#7#9#11",
@@ -1336,11 +1368,13 @@
         "eventName": "Julia Grabher - Elisabetta Cocciaretto",
         "p1": "Julia Grabher",
         "p2": "Elisabetta Cocciaretto",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "0#1#1",
+            "df": "3#9#3",
+            "b": "0#2#0"
         },
         "stats2": {
             "ace": "4#3#2#0#4#5",
@@ -1403,6 +1437,8 @@
         "eventName": "Karen Khachanov - Alex Michelsen",
         "p1": "Karen Khachanov",
         "p2": "Alex Michelsen",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "2#12#1#3#11",
@@ -1460,16 +1496,18 @@
         "eventName": "Karolina Pliskova - Sloane Stephens",
         "p1": "Karolina Pliskova",
         "p2": "Sloane Stephens",
+        "tags1": "D",
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "5#3#2#6#5#6",
+            "df": "7#6#6#7#12#8",
+            "b": "0#1#2#2#0#2"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "0#2#3#1#1#2",
+            "df": "3#5#0#1#1#5",
+            "b": "2#2#2#1#0#1"
         },
         "A": [
             {
@@ -1547,16 +1585,18 @@
         "eventName": "Katie Boulter - Belinda Bencic",
         "p1": "Katie Boulter",
         "p2": "Belinda Bencic",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "2#9#5#2#0#8",
+            "df": "4#9#4#7#6#2",
+            "b": "0#2#2#2#0#2"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "0#1#3",
+            "df": "1#1#6",
+            "b": "2#2#1"
         },
         "A": [
             {
@@ -1634,11 +1674,13 @@
         "eventName": "Laura Siegemund - Liudmila Samsonova",
         "p1": "Laura Siegemund",
         "p2": "Liudmila Samsonova",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1#1#4#1",
+            "df": "4#3#7#3",
+            "b": "0#0#2#0"
         },
         "stats2": {
             "ace": "1#3#6",
@@ -1701,6 +1743,8 @@
         "eventName": "Leylah Annie Fernandez - Janice Tjen",
         "p1": "Leylah Annie Fernandez",
         "p2": "Janice Tjen",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "2#0#3#0#3#1",
@@ -1768,6 +1812,8 @@
         "eventName": "Lorenzo Musetti - Raphael Collignon",
         "p1": "Lorenzo Musetti",
         "p2": "Raphael Collignon",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "5#3#9#7#1#3",
@@ -1855,6 +1901,8 @@
         "eventName": "Lorenzo Sonego - Carlos Taberner",
         "p1": "Lorenzo Sonego",
         "p2": "Carlos Taberner",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "8#10#5#3#6#10",
@@ -1942,6 +1990,8 @@
         "eventName": "Luca Nardi - Yibing Wu",
         "p1": "Luca Nardi",
         "p2": "Yibing Wu",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "6#2",
@@ -2029,6 +2079,8 @@
         "eventName": "Lulu Sun - Linda Fruhvirtova",
         "p1": "Lulu Sun",
         "p2": "Linda Fruhvirtova",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": null,
@@ -2036,9 +2088,9 @@
             "b": null
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "3",
+            "df": "5",
+            "b": "1"
         },
         "A": [
             {
@@ -2096,11 +2148,13 @@
         "eventName": "Maddison Inglis - Kimberly Birrell",
         "p1": "Maddison Inglis",
         "p2": "Kimberly Birrell",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1#2#0#2",
+            "df": "1#12#2#2",
+            "b": "0#1#0#2"
         },
         "stats2": {
             "ace": "0#2#0#0#5#3",
@@ -2163,11 +2217,13 @@
         "eventName": "Naomi Osaka - Antonia Ruzic",
         "p1": "Naomi Osaka",
         "p2": "Antonia Ruzic",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "6#4#1#5#15",
+            "df": "3#1#2#7#6",
+            "b": "1#2#2#0#1"
         },
         "stats2": {
             "ace": "0#0#2#1#0#1",
@@ -2250,16 +2306,18 @@
         "eventName": "Oleksandra Oliynykova - Madison Keys",
         "p1": "Oleksandra Oliynykova",
         "p2": "Madison Keys",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "0#0",
+            "df": "1#1",
+            "b": "2#0"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "3#9#5",
+            "df": "9#3#2",
+            "b": "2#2#2"
         },
         "A": [
             {
@@ -2312,16 +2370,18 @@
         "eventName": "Panna Udvardy - Katerina Siniakova",
         "p1": "Panna Udvardy",
         "p2": "Katerina Siniakova",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "2#0#1",
+            "df": "2#1#1",
+            "b": "0#2#0"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "0#3#5#2#2#0",
+            "df": "2#3#6#3#4#5",
+            "b": "1#2#2#2#2#0"
         },
         "A": [
             {
@@ -2379,6 +2439,8 @@
         "eventName": "Rebecca Sramkova - Jelena Ostapenko",
         "p1": "Rebecca Sramkova",
         "p2": "Jelena Ostapenko",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "5#3#5#2",
@@ -2446,6 +2508,8 @@
         "eventName": "Rei Sakamoto - Rafael Jodar",
         "p1": "Rei Sakamoto",
         "p2": "Rafael Jodar",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "7",
@@ -2533,6 +2597,8 @@
         "eventName": "Shintaro Mochizuki - Stefanos Tsitsipas",
         "p1": "Shintaro Mochizuki",
         "p2": "Stefanos Tsitsipas",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "4#4#4#3#3",
@@ -2620,11 +2686,13 @@
         "eventName": "Shuai Zhang - Taylah Preston",
         "p1": "Shuai Zhang",
         "p2": "Taylah Preston",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "4#1#0#0",
+            "df": "3#3#2#2",
+            "b": "2#2#2#0"
         },
         "stats2": {
             "ace": "0#2#3",
@@ -2687,16 +2755,18 @@
         "eventName": "Sorana Cirstea - Eva Lys",
         "p1": "Sorana Cirstea",
         "p2": "Eva Lys",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "11#7#3",
+            "df": "3#3#4",
+            "b": "2#2#2"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "1#0",
+            "df": "10#6",
+            "b": "2#2"
         },
         "A": [
             {
@@ -2754,6 +2824,8 @@
         "eventName": "Tereza Valentova - Maya Joint",
         "p1": "Tereza Valentova",
         "p2": "Maya Joint",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "1#3#3#4#0#3",
@@ -2821,6 +2893,8 @@
         "eventName": "Valentin Royer - Taylor Fritz",
         "p1": "Valentin Royer",
         "p2": "Taylor Fritz",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "4#3#8#11#12#12",
@@ -2908,6 +2982,8 @@
         "eventName": "Varvara Gracheva - Viktorija Golubic",
         "p1": "Varvara Gracheva",
         "p2": "Viktorija Golubic",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "3#1#6#4#0",
@@ -2915,9 +2991,9 @@
             "b": "0#2#2#2#1"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "0",
+            "df": "0",
+            "b": "0"
         },
         "A": [
             {
@@ -2970,6 +3046,8 @@
         "eventName": "Vit Kopriva - Lennard Struff",
         "p1": "Vit Kopriva",
         "p2": "Lennard Struff",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "6#3#1#4#4#3",
@@ -3052,6 +3130,8 @@
         "eventName": "Xin Yu Wang - Anhelina Kalinina",
         "p1": "Xin Yu Wang",
         "p2": "Anhelina Kalinina",
+        "tags1": null,
+        "tags2": null,
         "updateTime": "13:00",
         "stats1": {
             "ace": "5#5#5",
@@ -3059,9 +3139,9 @@
             "b": "0#2#0"
         },
         "stats2": {
-            "ace": null,
-            "df": null,
-            "b": null
+            "ace": "3#5",
+            "df": "1#5",
+            "b": "0#2"
         },
         "A": [
             {
