@@ -577,7 +577,7 @@
         "eventName": "Elena Rybakina - Kaja Juvan",
         "p1": "Elena Rybakina",
         "p2": "Kaja Juvan",
-        "tags1": null,
+        "tags1": "A",
         "tags2": null,
         "updateTime": "13:00",
         "stats1": {
@@ -755,7 +755,7 @@
         "eventName": "Giovanni Mpetshi Perricard - Sebastian Baez",
         "p1": "Giovanni Mpetshi Perricard",
         "p2": "Sebastian Baez",
-        "tags1": null,
+        "tags1": "A",
         "tags2": null,
         "updateTime": "13:00",
         "stats1": {
@@ -923,7 +923,7 @@
         "eventName": "Hubert Hurkacz - Zizou Bergs",
         "p1": "Hubert Hurkacz",
         "p2": "Zizou Bergs",
-        "tags1": null,
+        "tags1": "A",
         "tags2": null,
         "updateTime": "13:00",
         "stats1": {
@@ -937,6 +937,12 @@
             "b": "2#1#1#2#2#0"
         },
         "A": [
+            {
+                "book": "sts",
+                "under": "-32.5 @1.85",
+                "lineType": "meczowa",
+                "over": "+32.5 @1.85"
+            },
             {
                 "book": "betclic",
                 "lineType": "meczowa",
@@ -963,6 +969,12 @@
                 "over": "+21.5 @1.75"
             },
             {
+                "book": "sts",
+                "under": "-21.5 @1.95",
+                "lineType": "player1",
+                "over": "+21.5 @1.75"
+            },
+            {
                 "book": "betfan",
                 "lineType": "player1",
                 "over": "+22.5 @1.9"
@@ -971,6 +983,12 @@
                 "book": "betclic",
                 "lineType": "player1",
                 "over": "+23.5 @1.8"
+            },
+            {
+                "book": "sts",
+                "under": "-9.5 @1.75",
+                "lineType": "player2",
+                "over": "+9.5 @1.95"
             },
             {
                 "book": "superbet",
