@@ -62,22 +62,22 @@
                 "over": "+20.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+12.5 @1.5"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+13.5 @1.7"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+14.5 @1.98"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+15.5 @2.3"
             },
@@ -92,17 +92,17 @@
                 "over": "+5.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+6.5 @1.55"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+7.5 @1.83"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+8.5 @2.25"
             }
@@ -404,27 +404,27 @@
                 "over": "+27.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+12.5 @1.62"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+12.5 @1.6"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+13.5 @1.88"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+13.5 @1.85"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+14.5 @2.2"
             },
@@ -434,22 +434,22 @@
                 "over": "+14.5 @1.8"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+11.5 @1.48"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+12.5 @1.62"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+12.5 @1.57"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+13.5 @1.83"
             },
@@ -459,17 +459,17 @@
                 "over": "+13.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+13.5 @1.78"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+14.5 @2"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+15.5 @2.3"
             }
@@ -502,12 +502,12 @@
                 "over": "+5.5 @1.6"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+5.5 @1.6"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+6.5 @2.05"
             },
@@ -527,7 +527,7 @@
                 "over": "+1.5 @2.15"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+1.5 @1.94"
             },
@@ -537,17 +537,17 @@
                 "over": "+1.5 @1.6"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+3.5 @1.73"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+4.5 @2.4"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+2.5 @2.1"
             },
@@ -557,12 +557,12 @@
                 "over": "+2.5 @1.97"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+3.5 @1.73"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+4.5 @2.4"
             },
@@ -670,7 +670,7 @@
                 "over": "+7.5 @1.8"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+3.5 @1.73"
             },
@@ -680,7 +680,7 @@
                 "over": "+3.5 @1.55"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+4.5 @2.5"
             },
@@ -690,17 +690,17 @@
                 "over": "+3.5 @1.55"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+4.5 @1.55"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+5.5 @1.95"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+6.5 @2.5"
             }
@@ -884,12 +884,12 @@
                 "over": "+29.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+12.5 @1.57"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+13.5 @1.8"
             },
@@ -900,7 +900,7 @@
                 "over": "+13.5 @1.74"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+14.5 @2.05"
             },
@@ -910,7 +910,7 @@
                 "over": "+14.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+15.5 @2.4"
             },
@@ -936,17 +936,17 @@
                 "over": "+10.5 @1.5"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+11.5 @1.57"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+12.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+13.5 @2.1"
             },
@@ -956,7 +956,7 @@
                 "over": "+13.5 @1.7"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+14.5 @2.5"
             },
@@ -1111,12 +1111,12 @@
                 "over": "+4.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+4.5 @1.7"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+5.5 @2.2"
             },
@@ -1131,7 +1131,7 @@
                 "over": "+6.5 @2"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+7.5 @1.5"
             },
@@ -1147,7 +1147,7 @@
                 "over": "+8.5 @1.93"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+8.5 @1.88"
             },
@@ -1157,7 +1157,7 @@
                 "over": "+8.5 @1.8"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+9.5 @2.38"
             },
@@ -1490,12 +1490,12 @@
                 "over": "+2.5 @1.62"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+3.5 @1.48"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+4.5 @1.95"
             },
@@ -1526,12 +1526,12 @@
                 "over": "+2.5 @1.6"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+2.5 @1.48"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+3.5 @2.15"
             },
@@ -1615,7 +1615,7 @@
                 "over": "+0.5 @1.76"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+0.5 @1.48"
             },
@@ -1640,12 +1640,12 @@
                 "over": "+3.5 @1.5"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+3.5 @1.46"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+4.5 @1.98"
             }
@@ -1748,12 +1748,12 @@
                 "over": "+5.5 @1.8"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+5.5 @1.6"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+6.5 @2.05"
             },
@@ -1768,12 +1768,12 @@
                 "over": "+9.5 @2"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+2.5 @1.45"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+3.5 @1.96"
             },
@@ -1783,22 +1783,22 @@
                 "over": "+3.5 @1.8"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+3.5 @1.73"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+4.5 @2.4"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+2.5 @2.1"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+2.5 @2.05"
             },
@@ -1841,9 +1841,34 @@
                 "over": "+3.5 @1.8"
             },
             {
+                "book": "fortuna-BB",
+                "lineType": "player1",
+                "over": "+3.5 @1.73"
+            },
+            {
+                "book": "lvbet-BB",
+                "lineType": "player1",
+                "over": "+3.5 @1.67"
+            },
+            {
+                "book": "fortuna-BB",
+                "lineType": "player1",
+                "over": "+4.5 @2.4"
+            },
+            {
+                "book": "lvbet-BB",
+                "lineType": "player1",
+                "over": "+4.5 @2.3"
+            },
+            {
                 "book": "betclic",
                 "lineType": "player2",
                 "over": "+1.5 @1.8"
+            },
+            {
+                "book": "lvbet-BB",
+                "lineType": "player2",
+                "over": "+2.5 @2.1"
             }
         ],
         "DF": null,
@@ -1966,12 +1991,12 @@
         },
         "A": [
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+5.5 @1.6"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+6.5 @2.05"
             },
@@ -1991,12 +2016,12 @@
                 "over": "+14.5 @2"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+3.5 @1.73"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+4.5 @2.4"
             },
@@ -2011,17 +2036,17 @@
                 "over": "+6.5 @1.97"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+8.5 @1.46"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+9.5 @1.73"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+10.5 @2.1"
             },
@@ -2041,7 +2066,7 @@
                 "over": "+2.5 @2.27"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+2.5 @2.1"
             },
@@ -2056,7 +2081,7 @@
                 "over": "+3.5 @1.6"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+3.5 @1.55"
             },
@@ -2066,7 +2091,7 @@
                 "over": "+4.5 @2"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+4.5 @2"
             }
@@ -2223,12 +2248,12 @@
         },
         "A": [
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+5.5 @1.6"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "meczowa",
                 "over": "+6.5 @2.05"
             },
@@ -2248,12 +2273,12 @@
                 "over": "+21.5 @1.8"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+3.5 @1.73"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player1",
                 "over": "+4.5 @2.4"
             },
@@ -2263,12 +2288,12 @@
                 "over": "+4.5 @1.85"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+4.5 @1.75"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player1",
                 "over": "+5.5 @2.3"
             },
@@ -2288,12 +2313,12 @@
                 "over": "+7.5 @2"
             },
             {
-                "book": "fortuna (bb)",
+                "book": "fortuna-BB",
                 "lineType": "player2",
                 "over": "+2.5 @2.1"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+10.5 @1.57"
             },
@@ -2303,12 +2328,12 @@
                 "over": "+11.5 @1.95"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+11.5 @1.83"
             },
             {
-                "book": "lvbet (bb)",
+                "book": "lvbet-BB",
                 "lineType": "player2",
                 "over": "+12.5 @2.2"
             },
