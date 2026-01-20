@@ -1,6 +1,484 @@
 [
     {
         "id": 1,
+        "eventName": "Alexander Bublik - Marton Fucsovics",
+        "p1": "Alexander Bublik",
+        "p2": "Marton Fucsovics",
+        "tags1": "A;DF",
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "13#10#9#15#12#15",
+            "df": "4#4#4#2#4#4",
+            "b": "3#2#2#2#2#1"
+        },
+        "stats2": {
+            "ace": "1#7#5#6#1#5",
+            "df": "5#0#2#1#10#5",
+            "b": "3#0#2#2#3#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+20.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+14.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+6.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 2,
+        "eventName": "Alexander Zverev - Alexandre Muller",
+        "p1": "Alexander Zverev",
+        "p2": "Alexandre Muller",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "15#5#4#7#5#9",
+            "df": "1#0#1#0#0#4",
+            "b": "3#2#2#2#2#3"
+        },
+        "stats2": {
+            "ace": "3#3#9#2#12#7",
+            "df": "3#2#2#1#4#3",
+            "b": "0#0#2#0#2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+20.5 @1.8"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player1",
+                "over": "+12.5 @1.5"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player1",
+                "over": "+13.5 @1.7"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player1",
+                "over": "+14.5 @1.98"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player1",
+                "over": "+15.5 @2.3"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+15.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+5.5 @1.8"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player2",
+                "over": "+6.5 @1.55"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player2",
+                "over": "+7.5 @1.83"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player2",
+                "over": "+8.5 @2.25"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 3,
+        "eventName": "Anastasia Potapova - Emma Raducanu",
+        "p1": "Anastasia Potapova",
+        "p2": "Emma Raducanu",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "0#0#1#4#6#0",
+            "df": "5#2#0#7#4#4",
+            "b": "0#0#2#0#2#0"
+        },
+        "stats2": {
+            "ace": "1#1#0#3#5#5",
+            "df": "4#3#4#5#4#2",
+            "b": "0#2#1#1#1#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+5.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+2.5 @2"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+3.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 4,
+        "eventName": "Ann Li - Magda Linette",
+        "p1": "Ann Li",
+        "p2": "Magda Linette",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "7#0#8#1#3#5",
+            "df": "3#0#2#4#3#1",
+            "b": "1#0#2#0#2#2"
+        },
+        "stats2": {
+            "ace": "1#2#2#7#0#10",
+            "df": "1#4#1#1#4#7",
+            "b": "1#2#2#2#0#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+8.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+3.5 @2.17"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+4.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @2.07"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+3.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @1.6"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+1.5 @1.95"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 5,
+        "eventName": "Aryna Sabalenka - Zhuoxuan Bai",
+        "p1": "Aryna Sabalenka",
+        "p2": "Zhuoxuan Bai",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "11#7#4#3#2",
+            "df": "0#3#1#3#2",
+            "b": "2#2#2#2#2"
+        },
+        "stats2": {
+            "ace": "0#1#1#2#1#0",
+            "df": "1#3#2#0#4#4",
+            "b": "2#2#2#0#2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+5.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+3.5 @2.25"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+1.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+0.5 @1.54"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+1.5 @1.7"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 6,
+        "eventName": "Carlos Alcaraz - Yannick Hanfmann",
+        "p1": "Carlos Alcaraz",
+        "p2": "Yannick Hanfmann",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "5#5#2#9#5#8",
+            "df": "0#1#0#2#3#2",
+            "b": "0#2#2#2#2#1"
+        },
+        "stats2": {
+            "ace": "19#1#21#6",
+            "df": "2#1#1#0",
+            "b": "3#0#2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+17.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+7.5 @1.83"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+9.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+7.5 @1.9"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+8.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @1.68"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @2.37"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 7,
+        "eventName": "Coco Gauff - Olga Danilovic",
+        "p1": "Coco Gauff",
+        "p2": "Olga Danilovic",
+        "tags1": "DF;T",
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "0#1#2#5",
+            "df": "3#7#9#9",
+            "b": "2#2#0#2"
+        },
+        "stats2": {
+            "ace": "1#2#1",
+            "df": "1#1#6",
+            "b": "0#1#0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+2.5 @1.6"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+2.5 @1.57"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+1.5 @1.71"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+2.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+6.5 @2.07"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @1.73"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 8,
+        "eventName": "Daniil Medvedev - Quentin Halys",
+        "p1": "Daniil Medvedev",
+        "p2": "Quentin Halys",
+        "tags1": "DF",
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "9#9#9#13#10#9",
+            "df": "7#4#2#7#11#1",
+            "b": "2#2#2#2#2#2"
+        },
+        "stats2": {
+            "ace": "11#11#12#26#8#22",
+            "df": "1#1#4#4#6#7",
+            "b": "2#2#1#2#1#1"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+27.5 @1.8"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player1",
+                "over": "+12.5 @1.62"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+12.5 @1.6"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player1",
+                "over": "+13.5 @1.88"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+13.5 @1.85"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player1",
+                "over": "+14.5 @2.2"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+14.5 @1.8"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+11.5 @1.48"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+12.5 @1.62"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player2",
+                "over": "+12.5 @1.57"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+13.5 @1.83"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+13.5 @1.8"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player2",
+                "over": "+13.5 @1.78"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player2",
+                "over": "+14.5 @2"
+            },
+            {
+                "book": "lvbet (bb)",
+                "lineType": "player2",
+                "over": "+15.5 @2.3"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 9,
         "eventName": "Daria Kasatkina - Nikola Bartunkova",
         "p1": "Daria Kasatkina",
         "p2": "Nikola Bartunkova",
@@ -22,6 +500,16 @@
                 "book": "betfan",
                 "lineType": "meczowa",
                 "over": "+5.5 @1.6"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+5.5 @1.6"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+6.5 @2.05"
             },
             {
                 "book": "betfan",
@@ -47,6 +535,21 @@
                 "book": "betclic",
                 "lineType": "player1",
                 "over": "+1.5 @1.6"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+3.5 @1.73"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+4.5 @2.4"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+2.5 @2.1"
             },
             {
                 "book": "superbet",
@@ -84,7 +587,264 @@
         "B": null
     },
     {
-        "id": 2,
+        "id": 10,
+        "eventName": "Elena Gabriela Ruse - Ajla Tomljanovic",
+        "p1": "Elena Gabriela Ruse",
+        "p2": "Ajla Tomljanovic",
+        "tags1": null,
+        "tags2": "DF",
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "1#6#2",
+            "df": "5#3#7",
+            "b": "2#0#0"
+        },
+        "stats2": {
+            "ace": "3#2#3#3#5",
+            "df": "4#4#6#5#5",
+            "b": "2#1#2#2#1"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+7.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+4.5 @2"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+4.5 @1.92"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+1.5 @1.52"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+2.5 @1.52"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+5.5 @1.92"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+6.5 @2.05"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 11,
+        "eventName": "Elina Svitolina - Linda Klimovicova",
+        "p1": "Elina Svitolina",
+        "p2": "Linda Klimovicova",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "1#7#3#0#4#2",
+            "df": "3#3#3#1#4#2",
+            "b": "2#2#2#2#2#2"
+        },
+        "stats2": {
+            "ace": "2#1",
+            "df": "4#2",
+            "b": "0#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+7.5 @1.8"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+3.5 @1.73"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+3.5 @1.55"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+4.5 @2.5"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+3.5 @1.55"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+4.5 @1.55"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+5.5 @1.95"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+6.5 @2.5"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 12,
+        "eventName": "Emilio Nava - Cameron Norrie",
+        "p1": "Emilio Nava",
+        "p2": "Cameron Norrie",
+        "tags1": null,
+        "tags2": "D",
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "27#10#10#9#4#5",
+            "df": "6#1#5#0#1#1",
+            "b": "3#1#2#2#0#2"
+        },
+        "stats2": {
+            "ace": "11#4#6#3#3#8",
+            "df": "4#0#2#1#1#6",
+            "b": "1#1#2#2#0#3"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+26.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+18.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+8.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 13,
+        "eventName": "Frances Tiafoe - Francisco Comesana",
+        "p1": "Frances Tiafoe",
+        "p2": "Francisco Comesana",
+        "tags1": "D",
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "23#2#3#5#10#4",
+            "df": "5#0#0#4#3#4",
+            "b": "3#0#2#1#1#0"
+        },
+        "stats2": {
+            "ace": "20#1#10#7#8#7",
+            "df": "5#1#1#2#1#2",
+            "b": "3#0#2#0#1#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+32.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+13.5 @1.82"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+14.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+16.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+18.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+2.5 @1.87"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+4.5 @2.17"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 14,
+        "eventName": "Francisco Cerundolo - Damir Dzumhur",
+        "p1": "Francisco Cerundolo",
+        "p2": "Damir Dzumhur",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "7#2#4#0#9#7",
+            "df": "2#2#2#0#3#1",
+            "b": "3#2#0#2#1#1"
+        },
+        "stats2": {
+            "ace": "6#1#1#5#3#0",
+            "df": "4#1#5#1#1#0",
+            "b": "3#1#0#1#2#0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+12.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+8.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+3.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 15,
         "eventName": "Grigor Dimitrov - Tomas Machac",
         "p1": "Grigor Dimitrov",
         "p2": "Tomas Machac",
@@ -236,7 +996,66 @@
         ]
     },
     {
-        "id": 3,
+        "id": 16,
+        "eventName": "Hamad Medjedovic - Alex De Minaur",
+        "p1": "Hamad Medjedovic",
+        "p2": "Alex De Minaur",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "9#12#7#9#5#5",
+            "df": "7#3#1#1#5#0",
+            "b": "1#2#2#2#0#0"
+        },
+        "stats2": {
+            "ace": "4#4#12#3#3#10",
+            "df": "0#0#9#3#1#0",
+            "b": "2#0#1#2#2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+22.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+13.5 @1.97"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+13.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+9.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+9.5 @1.73"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+4.5 @1.64"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @1.83"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 17,
         "eventName": "Hugo Gaston - Jannik Sinner",
         "p1": "Hugo Gaston",
         "p2": "Jannik Sinner",
@@ -393,7 +1212,239 @@
         ]
     },
     {
-        "id": 4,
+        "id": 18,
+        "eventName": "Iva Jovic - Priscilla Hon",
+        "p1": "Iva Jovic",
+        "p2": "Priscilla Hon",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "0#3#0#2#0#0",
+            "df": "1#2#2#2#2#2",
+            "b": "0#2#2#2#2#0"
+        },
+        "stats2": {
+            "ace": "2#2",
+            "df": "2#2",
+            "b": "2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+6.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @1.74"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+2.5 @2"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+4.5 @1.97"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+4.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @1.75"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+3.5 @1.87"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 19,
+        "eventName": "Jaime Faria - Andrey Rublev",
+        "p1": "Jaime Faria",
+        "p2": "Andrey Rublev",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "5#6#4#6#5#8",
+            "df": "2#2#2#4#1#3",
+            "b": "3#2#2#2#0#2"
+        },
+        "stats2": {
+            "ace": "6#7#3#4#11#10",
+            "df": "0#7#2#4#8#4",
+            "b": "0#2#2#0#2#1"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+21.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+9.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+12.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 20,
+        "eventName": "Jordan Thompson - Nuno Borges",
+        "p1": "Jordan Thompson",
+        "p2": "Nuno Borges",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "7#4#14#5#5#4",
+            "df": "2#0#0#1#0#0",
+            "b": "0#2#2#2#2#2"
+        },
+        "stats2": {
+            "ace": "5#2#2#2",
+            "df": "1#1#0#2",
+            "b": "2#0#0#0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+20.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+10.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+9.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 21,
+        "eventName": "Kamil Majchrzak - Fabian Marozsan",
+        "p1": "Kamil Majchrzak",
+        "p2": "Fabian Marozsan",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "12#2",
+            "df": "2#0",
+            "b": "1#2"
+        },
+        "stats2": {
+            "ace": "3#9#4#6#2#5",
+            "df": "2#2#0#2#1#2",
+            "b": "1#2#2#2#0#0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+20.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+10.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+9.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 22,
+        "eventName": "Karolina Muchova - Alycia Parks",
+        "p1": "Karolina Muchova",
+        "p2": "Alycia Parks",
+        "tags1": null,
+        "tags2": "DF",
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "9#5#7",
+            "df": "1#2#2",
+            "b": "2#1#2"
+        },
+        "stats2": {
+            "ace": "6#2#5#2",
+            "df": "2#14#10#5",
+            "b": "0#0#0#0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+8.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+2.5 @1.83"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+3.5 @1.55"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+4.5 @2.1"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+4.5 @1.55"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @2.15"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+5.5 @1.78"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 23,
         "eventName": "Katie Boulter - Belinda Bencic",
         "p1": "Katie Boulter",
         "p2": "Belinda Bencic",
@@ -525,7 +1576,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 24,
         "eventName": "Laura Siegemund - Liudmila Samsonova",
         "p1": "Laura Siegemund",
         "p2": "Liudmila Samsonova",
@@ -614,7 +1665,66 @@
         "B": null
     },
     {
-        "id": 6,
+        "id": 25,
+        "eventName": "Learner Tien - Alexander Shevchenko",
+        "p1": "Learner Tien",
+        "p2": "Alexander Shevchenko",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "8#1#1#6#9#3",
+            "df": "8#2#1#2#0#0",
+            "b": "0#2#3#3#3#3"
+        },
+        "stats2": {
+            "ace": "1#9#7#6#7#3",
+            "df": "4#0#5#2#2#0",
+            "b": "0#2#2#2#2#0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+20.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+7.5 @2.05"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+10.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+7.5 @1.83"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+9.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+4.5 @1.72"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+3.5 @1.65"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 26,
         "eventName": "Maddison Inglis - Kimberly Birrell",
         "p1": "Maddison Inglis",
         "p2": "Kimberly Birrell",
@@ -636,6 +1746,16 @@
                 "book": "betclic",
                 "lineType": "meczowa",
                 "over": "+5.5 @1.8"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+5.5 @1.6"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+6.5 @2.05"
             },
             {
                 "book": "betfan",
@@ -663,6 +1783,21 @@
                 "over": "+3.5 @1.8"
             },
             {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+3.5 @1.73"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+4.5 @2.4"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+2.5 @2.1"
+            },
+            {
                 "book": "lvbet (bb)",
                 "lineType": "player2",
                 "over": "+2.5 @2.05"
@@ -677,7 +1812,142 @@
         "B": null
     },
     {
-        "id": 7,
+        "id": 27,
+        "eventName": "Magdalena Frech - Jasmine Paolini",
+        "p1": "Magdalena Frech",
+        "p2": "Jasmine Paolini",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "4#4#3",
+            "df": "3#1#3",
+            "b": "2#0#2"
+        },
+        "stats2": {
+            "ace": "3#2#4#0#0#2",
+            "df": "0#1#3#4#0#0",
+            "b": "2#2#0#0#0#0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+3.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+1.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 28,
+        "eventName": "Maria Sakkari - Mirra Andreeva",
+        "p1": "Maria Sakkari",
+        "p2": "Mirra Andreeva",
+        "tags1": null,
+        "tags2": "T",
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "2#1#0#2#5#3",
+            "df": "0#2#5#2#5#1",
+            "b": "2#0#0#2#0#2"
+        },
+        "stats2": {
+            "ace": "4#0#3#6",
+            "df": "5#4#3#0",
+            "b": "2#2#2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+7.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+2.5 @1.9"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+3.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @1.92"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+4.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @1.55"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+3.5 @2.2"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 29,
+        "eventName": "Michael Zheng - Corentin Moutet",
+        "p1": "Michael Zheng",
+        "p2": "Corentin Moutet",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "4#10#8#5#0#4",
+            "df": "0#0#0#0#1#2",
+            "b": "3#2#2#2#1#2"
+        },
+        "stats2": {
+            "ace": "3#4#1#4#5#4",
+            "df": "0#3#0#0#2#5",
+            "b": "0#2#2#2#1#1"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+12.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+6.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+5.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 30,
         "eventName": "Naomi Osaka - Antonia Ruzic",
         "p1": "Naomi Osaka",
         "p2": "Antonia Ruzic",
@@ -696,6 +1966,16 @@
         },
         "A": [
             {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+5.5 @1.6"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+6.5 @2.05"
+            },
+            {
                 "book": "betclic",
                 "lineType": "meczowa",
                 "over": "+7.5 @1.8"
@@ -709,6 +1989,16 @@
                 "book": "betfan",
                 "lineType": "meczowa",
                 "over": "+14.5 @2"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+3.5 @1.73"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+4.5 @2.4"
             },
             {
                 "book": "betclic",
@@ -751,6 +2041,11 @@
                 "over": "+2.5 @2.27"
             },
             {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+2.5 @2.1"
+            },
+            {
                 "book": "betclic",
                 "lineType": "player2",
                 "over": "+2.5 @1.65"
@@ -791,7 +2086,125 @@
         "B": null
     },
     {
-        "id": 8,
+        "id": 31,
+        "eventName": "Polina Kudermetova - Clara Tauson",
+        "p1": "Polina Kudermetova",
+        "p2": "Clara Tauson",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "4#7#6#6",
+            "df": "2#6#4#6",
+            "b": "2#2#1#1"
+        },
+        "stats2": {
+            "ace": "3#4",
+            "df": "4#4",
+            "b": "0#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+11.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+3.5 @2.15"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+4.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+4.5 @1.65"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+6.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+4.5 @1.7"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+3.5 @1.88"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 32,
+        "eventName": "Reilly Opelka - Alejandro Davidovich Fokina",
+        "p1": "Reilly Opelka",
+        "p2": "Alejandro Davidovich Fokina",
+        "tags1": "A",
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "14#27",
+            "df": "9#10",
+            "b": "0#1"
+        },
+        "stats2": {
+            "ace": "5#3#0#6#4#4",
+            "df": "2#1#2#1#1#5",
+            "b": "1#2#2#0#0#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+37.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+28.5 @1.87"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+28.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+7.5 @2.02"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+9.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+5.5 @1.65"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @2.32"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 33,
         "eventName": "Shintaro Mochizuki - Stefanos Tsitsipas",
         "p1": "Shintaro Mochizuki",
         "p2": "Stefanos Tsitsipas",
@@ -810,6 +2223,16 @@
         },
         "A": [
             {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+5.5 @1.6"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "meczowa",
+                "over": "+6.5 @2.05"
+            },
+            {
                 "book": "betclic",
                 "lineType": "meczowa",
                 "over": "+18.5 @1.8"
@@ -823,6 +2246,16 @@
                 "book": "betfan",
                 "lineType": "meczowa",
                 "over": "+21.5 @1.8"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+3.5 @1.73"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player1",
+                "over": "+4.5 @2.4"
             },
             {
                 "book": "superbet",
@@ -853,6 +2286,11 @@
                 "book": "betfan",
                 "lineType": "player1",
                 "over": "+7.5 @2"
+            },
+            {
+                "book": "fortuna (bb)",
+                "lineType": "player2",
+                "over": "+2.5 @2.1"
             },
             {
                 "book": "lvbet (bb)",
@@ -900,6 +2338,398 @@
                 "book": "superbet",
                 "lineType": "player2",
                 "over": "+2.5 @1.78"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 34,
+        "eventName": "Storm Hunter - Hailey Baptiste",
+        "p1": "Storm Hunter",
+        "p2": "Hailey Baptiste",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "3#4#2#2#1#2",
+            "df": "3#6#3#3#6#12",
+            "b": "2#2#2#2#0#2"
+        },
+        "stats2": {
+            "ace": "9#1#3#3#7#1",
+            "df": "4#4#2#3#4#3",
+            "b": "2#1#0#0#1#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+6.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+2.5 @2.4"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+2.5 @2"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+4.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+4.5 @1.69"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+4.5 @1.77"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+3.5 @1.95"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 35,
+        "eventName": "Talia Gibson - Diana Shnaider",
+        "p1": "Talia Gibson",
+        "p2": "Diana Shnaider",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "5#7#0#1#4",
+            "df": "4#5#4#1#3",
+            "b": "2#0#0#2#2"
+        },
+        "stats2": {
+            "ace": "0#4#2#1#1#4",
+            "df": "1#4#6#7#3#5",
+            "b": "0#2#2#2#1#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+6.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+3.5 @1.85"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+2.5 @2"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @1.68"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+3.5 @1.97"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+3.5 @2.17"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 36,
+        "eventName": "Tomas Martin Etcheverry - Arthur Fery",
+        "p1": "Tomas Martin Etcheverry",
+        "p2": "Arthur Fery",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "25#5#8#10",
+            "df": "1#2#1#0",
+            "b": "1#0#2#3"
+        },
+        "stats2": {
+            "ace": "6#2#5#4#5#2",
+            "df": "0#0#0#1#0#6",
+            "b": "3#2#2#2#2#1"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+22.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+10.5 @1.9"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+14.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+7.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+8.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @1.63"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+1.5 @1.76"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 37,
+        "eventName": "Tommy Paul - Thiago Agustin Tirante",
+        "p1": "Tommy Paul",
+        "p2": "Thiago Agustin Tirante",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "10",
+            "df": "4",
+            "b": "2"
+        },
+        "stats2": {
+            "ace": "5",
+            "df": "1",
+            "b": "0"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+18.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+9.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+9.5 @1.8"
+            }
+        ],
+        "DF": null,
+        "B": null
+    },
+    {
+        "id": 38,
+        "eventName": "Victoria Mboko - Caty Mcnally",
+        "p1": "Victoria Mboko",
+        "p2": "Caty Mcnally",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "8#4#0#2#1#2",
+            "df": "3#5#7#3#11#6",
+            "b": "2#2#0#0#0#2"
+        },
+        "stats2": {
+            "ace": "0#1#1#0#3#5",
+            "df": "4#2#3#1#5#4",
+            "b": "2#1#2#2#1#1"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+6.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+3.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+5.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+1.5 @2.2"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+1.5 @1.52"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+3.5 @1.69"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @1.56"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 39,
+        "eventName": "Yulia Putintseva - Elsa Jacquemot",
+        "p1": "Yulia Putintseva",
+        "p2": "Elsa Jacquemot",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "3#2#3#1#2#0",
+            "df": "1#3#0#2#0#3",
+            "b": "2#2#2#0#2#2"
+        },
+        "stats2": {
+            "ace": "4#3#5#7#5#4",
+            "df": "11#5#6#9#6#6",
+            "b": "2#0#0#1#2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+5.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @2.5"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+1.5 @1.6"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+3.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+4.5 @1.73"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @2.15"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+6.5 @1.9"
+            }
+        ],
+        "B": null
+    },
+    {
+        "id": 40,
+        "eventName": "Zeynep Sonmez - Anna Bondar",
+        "p1": "Zeynep Sonmez",
+        "p2": "Anna Bondar",
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "20:30",
+        "stats1": {
+            "ace": "4#3#1",
+            "df": "5#3#6",
+            "b": "2#2#0"
+        },
+        "stats2": {
+            "ace": "1#6#6#10#4#7",
+            "df": "2#4#0#5#2#6",
+            "b": "0#2#2#1#2#2"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+8.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+1.5 @2.32"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+2.5 @1.8"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+3.5 @1.65"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+5.5 @1.8"
+            }
+        ],
+        "DF": [
+            {
+                "book": "superbet",
+                "lineType": "player1",
+                "over": "+2.5 @1.88"
+            },
+            {
+                "book": "superbet",
+                "lineType": "player2",
+                "over": "+2.5 @2.32"
             }
         ],
         "B": null
