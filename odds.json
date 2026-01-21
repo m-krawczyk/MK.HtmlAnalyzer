@@ -15,8 +15,8 @@
             "b": "4#3#3#2#3#1",
             "b2": "1#1#2#0#0#2",
             "aceAvgPerSet": "4.92",
-            "dfAvgPerSet": "1.78",
-            "bAvgPerSet": "1.11"
+            "dfAvgPerSet": "1.66",
+            "bAvgPerSet": "1.26"
         },
         "stats2": {
             "ace": "1#7#5#0#1#3",
@@ -27,7 +27,7 @@
             "b2": "3#1#1#6#3#1",
             "aceAvgPerSet": "3.02",
             "dfAvgPerSet": "1.17",
-            "bAvgPerSet": "1.26"
+            "bAvgPerSet": "1.25"
         },
         "A": [
             {
@@ -243,8 +243,8 @@
             "b": "6#0#4#2#1#0",
             "b2": "1#2#0#2#0#1",
             "aceAvgPerSet": "3.21",
-            "dfAvgPerSet": "0.88",
-            "bAvgPerSet": "1.29"
+            "dfAvgPerSet": "1.08",
+            "bAvgPerSet": "1.15"
         },
         "stats2": {
             "ace": "5#3#3#9#2#12",
@@ -451,9 +451,9 @@
             "df2": "2#6#3#2#5#5",
             "b": "6#7#5#0#3#1",
             "b2": "4#6#7#4#1#5",
-            "aceAvgPerSet": "2.00",
-            "dfAvgPerSet": "2.50",
-            "bAvgPerSet": "1.83"
+            "aceAvgPerSet": "1.61",
+            "dfAvgPerSet": "1.93",
+            "bAvgPerSet": "1.80"
         },
         "stats2": {
             "ace": "1#2#1#1#0#3",
@@ -462,7 +462,7 @@
             "df2": "3#4#1#7#0#4",
             "b": "4#4#3#6#3#6",
             "b2": "6#1#6#4#5#8",
-            "aceAvgPerSet": "1.38",
+            "aceAvgPerSet": "1.55",
             "dfAvgPerSet": "2.02",
             "bAvgPerSet": "2.12"
         },
@@ -571,9 +571,9 @@
             "df2": "3#4#2#2#4#4",
             "b": "4#6#8#2#2#3",
             "b2": "2#6#6#4#6#1",
-            "aceAvgPerSet": "2.87",
-            "dfAvgPerSet": "1.57",
-            "bAvgPerSet": "1.97"
+            "aceAvgPerSet": "1.96",
+            "dfAvgPerSet": "1.66",
+            "bAvgPerSet": "1.82"
         },
         "stats2": {
             "ace": "4#1#2#2#3#2",
@@ -582,8 +582,8 @@
             "df2": "5#2#1#6#2#5",
             "b": "4#4#5#5#2#5",
             "b2": "2#7#2#4#5#5",
-            "aceAvgPerSet": "1.41",
-            "dfAvgPerSet": "1.65",
+            "aceAvgPerSet": "1.62",
+            "dfAvgPerSet": "1.60",
             "bAvgPerSet": "1.71"
         },
         "A": [
@@ -911,9 +911,9 @@
             "df2": "8#0#3#3#0#2",
             "b": "5#1#1#5#1#1",
             "b2": "4#2#2#1#3#0",
-            "aceAvgPerSet": "3.38",
+            "aceAvgPerSet": "3.85",
             "dfAvgPerSet": "0.96",
-            "bAvgPerSet": "1.00"
+            "bAvgPerSet": "1.15"
         },
         "A": [
             {
@@ -1105,7 +1105,7 @@
             "df2": "4#5#4#4#6#7",
             "b": "1#5#2#5#5#4",
             "b2": "5#3#5#3#4#7",
-            "aceAvgPerSet": "2.05",
+            "aceAvgPerSet": "1.95",
             "dfAvgPerSet": "1.62",
             "bAvgPerSet": "1.78"
         },
@@ -1291,8 +1291,8 @@
             "df2": "6#1#2#7#3#4",
             "b": "2#4#1#4#2#2",
             "b2": "6#0#4#2#0#0",
-            "aceAvgPerSet": "4.26",
-            "dfAvgPerSet": "1.37",
+            "aceAvgPerSet": "4.49",
+            "dfAvgPerSet": "1.28",
             "bAvgPerSet": "0.87"
         },
         "A": [
@@ -1409,7 +1409,7 @@
             "df2": "6#3#2#4#1#5",
             "b": "7#4#7#4#2#3",
             "b2": "5#8#6#5#6#5",
-            "aceAvgPerSet": "1.08",
+            "aceAvgPerSet": "0.86",
             "dfAvgPerSet": "2.80",
             "bAvgPerSet": "2.02"
         },
@@ -1462,9 +1462,9 @@
             "df2": "6#1#2#1#6#2",
             "b": "5#3#4#3#4#7",
             "b2": "3#7#2#0#6#4",
-            "aceAvgPerSet": "1.80",
-            "dfAvgPerSet": "2.20",
-            "bAvgPerSet": "1.93"
+            "aceAvgPerSet": "2.02",
+            "dfAvgPerSet": "1.92",
+            "bAvgPerSet": "1.60"
         },
         "stats2": {
             "ace": "1#3#3#1#2#2",
@@ -1473,9 +1473,9 @@
             "df2": "3#5#6#4#4#5",
             "b": "6#5#5#4#5#4",
             "b2": "4#7#1#5#2#5",
-            "aceAvgPerSet": "1.68",
-            "dfAvgPerSet": "2.44",
-            "bAvgPerSet": "1.81"
+            "aceAvgPerSet": "1.09",
+            "dfAvgPerSet": "2.68",
+            "bAvgPerSet": "1.65"
         },
         "A": [
             {
@@ -1593,8 +1593,8 @@
             "df2": "2#1#3#2#1#5",
             "b": "1#4#5#5#0#4",
             "b2": "4#2#3#1#4#1",
-            "aceAvgPerSet": "1.84",
-            "dfAvgPerSet": "1.88",
+            "aceAvgPerSet": "1.72",
+            "dfAvgPerSet": "2.35",
             "bAvgPerSet": "1.74"
         },
         "A": [
@@ -1826,7 +1826,7 @@
             "b2": "3#3#2#0#3#1",
             "aceAvgPerSet": "3.74",
             "dfAvgPerSet": "1.23",
-            "bAvgPerSet": "1.11"
+            "bAvgPerSet": "1.05"
         },
         "stats2": {
             "ace": "16#3#3#11#10#4",
@@ -1893,9 +1893,9 @@
             "df2": "3#4#3#1#1#3",
             "b": "4#0#4#2#2#1",
             "b2": "1#3#0#6#4#4",
-            "aceAvgPerSet": "3.90",
-            "dfAvgPerSet": "1.94",
-            "bAvgPerSet": "1.40"
+            "aceAvgPerSet": "3.81",
+            "dfAvgPerSet": "1.35",
+            "bAvgPerSet": "1.21"
         },
         "stats2": {
             "ace": "20#1#10#7#8#7",
@@ -1905,7 +1905,7 @@
             "b": "4#0#2#0#2#3",
             "b2": "1#2#0#2#5#0",
             "aceAvgPerSet": "3.70",
-            "dfAvgPerSet": "1.41",
+            "dfAvgPerSet": "1.47",
             "bAvgPerSet": "1.48"
         },
         "A": [
@@ -2013,8 +2013,8 @@
             "df2": "1#1#3#0#2#4",
             "b": "7#4#3#0#2#3",
             "b2": "1#2#3#1#5#4",
-            "aceAvgPerSet": "2.23",
-            "dfAvgPerSet": "0.88",
+            "aceAvgPerSet": "2.05",
+            "dfAvgPerSet": "1.08",
             "bAvgPerSet": "1.29"
         },
         "stats2": {
@@ -2112,8 +2112,8 @@
             "df2": "1#2#1#6#4#4",
             "b": "0#0#3#3#3#6",
             "b2": "4#1#0#0#1#4",
-            "aceAvgPerSet": "6.32",
-            "dfAvgPerSet": "2.43",
+            "aceAvgPerSet": "4.86",
+            "dfAvgPerSet": "1.49",
             "bAvgPerSet": "1.04"
         },
         "stats2": {
@@ -2166,8 +2166,8 @@
             "b": "6#2#1#3#4#1",
             "b2": "1#4#1#0#1#3",
             "aceAvgPerSet": "4.05",
-            "dfAvgPerSet": "1.48",
-            "bAvgPerSet": "1.63"
+            "dfAvgPerSet": "1.63",
+            "bAvgPerSet": "1.71"
         },
         "stats2": {
             "ace": "9#6#4#2#8#5",
@@ -2178,7 +2178,7 @@
             "b2": "0#1#0#3#3#1",
             "aceAvgPerSet": "3.73",
             "dfAvgPerSet": "1.48",
-            "bAvgPerSet": "1.13"
+            "bAvgPerSet": "1.28"
         },
         "A": [
             {
@@ -2426,9 +2426,9 @@
             "df2": "2#4#2#5#3#2",
             "b": "0#5#4#4#4#4",
             "b2": "3#2#1#5#0#2",
-            "aceAvgPerSet": "3.33",
-            "dfAvgPerSet": "1.68",
-            "bAvgPerSet": "1.26"
+            "aceAvgPerSet": "3.13",
+            "dfAvgPerSet": "1.37",
+            "bAvgPerSet": "2.00"
         },
         "stats2": {
             "ace": "8#7#11#12#3#6",
@@ -2438,8 +2438,8 @@
             "b": "2#3#2#2#3#1",
             "b2": "1#0#0#0#0#0",
             "aceAvgPerSet": "2.87",
-            "dfAvgPerSet": "1.24",
-            "bAvgPerSet": "1.13"
+            "dfAvgPerSet": "1.04",
+            "bAvgPerSet": "1.51"
         },
         "A": [
             {
@@ -2479,8 +2479,8 @@
             "df2": "0#2#2#1#1#1",
             "b": "4#2#8#7#4#5",
             "b2": "1#4#5#4#0#0",
-            "aceAvgPerSet": "0.71",
-            "dfAvgPerSet": "1.12",
+            "aceAvgPerSet": "1.06",
+            "dfAvgPerSet": "1.59",
             "bAvgPerSet": "2.29"
         },
         "stats2": {
@@ -2490,8 +2490,8 @@
             "df2": "0#1#3#7#1#3",
             "b": "3#1#3#6#6#4",
             "b2": "5#3#4#2#7#1",
-            "aceAvgPerSet": "2.12",
-            "dfAvgPerSet": "2.00",
+            "aceAvgPerSet": "2.07",
+            "dfAvgPerSet": "1.96",
             "bAvgPerSet": "1.85"
         },
         "A": [
@@ -2599,7 +2599,7 @@
             "df2": "3#2#2#2#2#0",
             "b": "2#4#5#2#3#0",
             "b2": "5#2#3#0#2#3",
-            "aceAvgPerSet": "3.08",
+            "aceAvgPerSet": "2.41",
             "dfAvgPerSet": "1.56",
             "bAvgPerSet": "1.09"
         },
@@ -2610,9 +2610,9 @@
             "df2": "5#4#2#0#1#0",
             "b": "5#5#1#2#5#0",
             "b2": "2#0#3#0#2#2",
-            "aceAvgPerSet": "2.92",
-            "dfAvgPerSet": "1.33",
-            "bAvgPerSet": "0.94"
+            "aceAvgPerSet": "2.96",
+            "dfAvgPerSet": "1.08",
+            "bAvgPerSet": "1.10"
         },
         "A": [
             {
@@ -2826,8 +2826,8 @@
             "b": "6#1#4#2#2#3",
             "b2": "0#3#1#0#1#1",
             "aceAvgPerSet": "3.11",
-            "dfAvgPerSet": "1.11",
-            "bAvgPerSet": "1.13"
+            "dfAvgPerSet": "1.18",
+            "bAvgPerSet": "1.11"
         },
         "stats2": {
             "ace": "4#8#2#5#5#7",
@@ -2837,7 +2837,7 @@
             "b": "1#1#0#3#5#0",
             "b2": "2#1#2#1#2#1",
             "aceAvgPerSet": "2.99",
-            "dfAvgPerSet": "0.65",
+            "dfAvgPerSet": "0.81",
             "bAvgPerSet": "1.12"
         },
         "A": [
@@ -2924,9 +2924,9 @@
             "df2": "2#10#4#4#5#5",
             "b": "4#4#1#0#4#2",
             "b2": "6#5#4#0#1#1",
-            "aceAvgPerSet": "3.90",
-            "dfAvgPerSet": "1.94",
-            "bAvgPerSet": "1.40"
+            "aceAvgPerSet": "3.03",
+            "dfAvgPerSet": "1.35",
+            "bAvgPerSet": "1.14"
         },
         "stats2": {
             "ace": "5#9#3#9#4#6",
@@ -3057,9 +3057,9 @@
             "df2": "8#1#7#1#9#4",
             "b": "4#0#3#5#7#5",
             "b2": "3#2#2#3#5#6",
-            "aceAvgPerSet": "3.35",
-            "dfAvgPerSet": "1.32",
-            "bAvgPerSet": "1.85"
+            "aceAvgPerSet": "2.30",
+            "dfAvgPerSet": "1.65",
+            "bAvgPerSet": "1.47"
         },
         "stats2": {
             "ace": "12#6#4#6#9#2",
@@ -3068,8 +3068,8 @@
             "df2": "5#2#3#4#1#4",
             "b": "4#3#6#2#4#4",
             "b2": "4#4#6#5#4#1",
-            "aceAvgPerSet": "2.00",
-            "dfAvgPerSet": "2.05",
+            "aceAvgPerSet": "2.77",
+            "dfAvgPerSet": "2.90",
             "bAvgPerSet": "1.77"
         },
         "A": [
@@ -3209,9 +3209,9 @@
             "df2": "2#4#2#3#11#2",
             "b": "1#4#5#1#7#6",
             "b2": "5#6#2#5#7#5",
-            "aceAvgPerSet": "1.42",
+            "aceAvgPerSet": "1.61",
             "dfAvgPerSet": "2.40",
-            "bAvgPerSet": "1.92"
+            "bAvgPerSet": "1.91"
         },
         "stats2": {
             "ace": "1#2#3#1#0#0",
@@ -3220,9 +3220,9 @@
             "df2": "5#2#4#3#3#3",
             "b": "5#6#5#4#6#4",
             "b2": "1#3#5#0#3#1",
-            "aceAvgPerSet": "1.31",
+            "aceAvgPerSet": "1.27",
             "dfAvgPerSet": "2.21",
-            "bAvgPerSet": "1.70"
+            "bAvgPerSet": "1.85"
         },
         "A": [
             {
@@ -3262,9 +3262,9 @@
             "df2": "5#6#2#15#1#9",
             "b": "5#1#3#8#3#7",
             "b2": "6#5#2#5#6#8",
-            "aceAvgPerSet": "1.00",
-            "dfAvgPerSet": "1.79",
-            "bAvgPerSet": "1.91"
+            "aceAvgPerSet": "0.55",
+            "dfAvgPerSet": "1.58",
+            "bAvgPerSet": "1.73"
         },
         "stats2": {
             "ace": "2#3#8#1#3#2",
@@ -3273,7 +3273,7 @@
             "df2": "3#4#2#3#4#4",
             "b": "6#3#2#5#6#2",
             "b2": "5#7#4#3#2#4",
-            "aceAvgPerSet": "2.28",
+            "aceAvgPerSet": "2.11",
             "dfAvgPerSet": "2.00",
             "bAvgPerSet": "1.57"
         },
@@ -3315,9 +3315,9 @@
             "df2": "3#1#2#1#1#3",
             "b": "6#0#2#2#5#3",
             "b2": "6#3#1#0#3#0",
-            "aceAvgPerSet": "2.16",
+            "aceAvgPerSet": "2.58",
             "dfAvgPerSet": "1.27",
-            "bAvgPerSet": "1.14"
+            "bAvgPerSet": "1.23"
         },
         "stats2": {
             "ace": "9#1#9#7#6#7",
@@ -3326,7 +3326,7 @@
             "df2": "4#1#0#1#3#4",
             "b": "5#0#1#6#3#3",
             "b2": "2#4#0#5#1#0",
-            "aceAvgPerSet": "3.19",
+            "aceAvgPerSet": "2.42",
             "dfAvgPerSet": "1.37",
             "bAvgPerSet": "1.39"
         },
@@ -3471,9 +3471,9 @@
             "df2": "7#6#4#7#4#5",
             "b": "4#5#6#8",
             "b2": "3#3#7#7",
-            "aceAvgPerSet": "2.05",
+            "aceAvgPerSet": "1.85",
             "dfAvgPerSet": "1.78",
-            "bAvgPerSet": "2.29"
+            "bAvgPerSet": "2.31"
         },
         "stats2": {
             "ace": "5#0#2#0#0#5",
@@ -3482,9 +3482,9 @@
             "df2": "1#3#4#5#1#5",
             "b": "3#0#7#7#1#4",
             "b2": "4#5#5#5#5#3",
-            "aceAvgPerSet": "1.58",
-            "dfAvgPerSet": "1.89",
-            "bAvgPerSet": "1.75"
+            "aceAvgPerSet": "1.44",
+            "dfAvgPerSet": "2.28",
+            "bAvgPerSet": "1.83"
         },
         "A": [
             {
@@ -3524,9 +3524,9 @@
             "df2": "1#5#10#9#3#4",
             "b": "5#4#2#3#2#4",
             "b2": "0#0#4#2#3#3",
-            "aceAvgPerSet": "2.16",
-            "dfAvgPerSet": "2.95",
-            "bAvgPerSet": "1.94"
+            "aceAvgPerSet": "1.60",
+            "dfAvgPerSet": "2.11",
+            "bAvgPerSet": "1.91"
         },
         "stats2": {
             "ace": "3#2#4#0#0#2",
@@ -3536,8 +3536,8 @@
             "b": "4#5#3#0#1#1",
             "b2": "0#1#6#4#4#5",
             "aceAvgPerSet": "1.31",
-            "dfAvgPerSet": "1.50",
-            "bAvgPerSet": "1.65"
+            "dfAvgPerSet": "1.48",
+            "bAvgPerSet": "1.68"
         },
         "A": [
             {
@@ -3711,9 +3711,9 @@
             "df2": "3#6#6#4#3#1",
             "b": "4#6#1#5#5#5",
             "b2": "1#7#4#3#2#6",
-            "aceAvgPerSet": "1.55",
-            "dfAvgPerSet": "3.05",
-            "bAvgPerSet": "2.13"
+            "aceAvgPerSet": "1.43",
+            "dfAvgPerSet": "2.28",
+            "bAvgPerSet": "1.90"
         },
         "stats2": {
             "ace": "1#1#4#2#2#1",
@@ -3724,7 +3724,7 @@
             "b2": "2#1#1#1#1#4",
             "aceAvgPerSet": "1.32",
             "dfAvgPerSet": "1.97",
-            "bAvgPerSet": "1.86"
+            "bAvgPerSet": "1.91"
         },
         "A": [
             {
@@ -3868,8 +3868,8 @@
             "b": "4#3#6#5#3#7",
             "b2": "1#2#3#2#5#5",
             "aceAvgPerSet": "2.15",
-            "dfAvgPerSet": "1.75",
-            "bAvgPerSet": "1.55"
+            "dfAvgPerSet": "0.63",
+            "bAvgPerSet": "2.00"
         },
         "stats2": {
             "ace": "6#5#12#3#5#1",
@@ -3880,7 +3880,7 @@
             "b2": "2#3#0#2#1#2",
             "aceAvgPerSet": "5.11",
             "dfAvgPerSet": "1.60",
-            "bAvgPerSet": "1.15"
+            "bAvgPerSet": "1.28"
         },
         "A": [
             {
@@ -3983,7 +3983,7 @@
             "b": "5#4#2#5#5#0",
             "b2": "4#1#5#4#1#1",
             "aceAvgPerSet": "2.85",
-            "dfAvgPerSet": "1.19",
+            "dfAvgPerSet": "1.45",
             "bAvgPerSet": "1.66"
         },
         "stats2": {
@@ -4046,7 +4046,7 @@
             "df2": "10#2#2#4#3#7",
             "b": "7#3#0#5#5#4",
             "b2": "6#0#4#5#1#1",
-            "aceAvgPerSet": "2.02",
+            "aceAvgPerSet": "2.96",
             "dfAvgPerSet": "2.33",
             "bAvgPerSet": "1.82"
         },
@@ -4177,7 +4177,7 @@
             "b2": "0#2#0#0#0#3",
             "aceAvgPerSet": "7.75",
             "dfAvgPerSet": "1.78",
-            "bAvgPerSet": "1.14"
+            "bAvgPerSet": "0.98"
         },
         "stats2": {
             "ace": "10#5#3#0#6#4",
@@ -4295,7 +4295,7 @@
             "df2": "6#4#3#2#3#3",
             "b": "1#1#2#1#3#3",
             "b2": "5#4#3#3#4#4",
-            "aceAvgPerSet": "3.34",
+            "aceAvgPerSet": "2.40",
             "dfAvgPerSet": "1.77",
             "bAvgPerSet": "1.17"
         },
@@ -4348,7 +4348,7 @@
             "df2": "2#6#1#4#3#3",
             "b": "1#5#4#3#7#4",
             "b2": "5#3#2#2#4#2",
-            "aceAvgPerSet": "1.50",
+            "aceAvgPerSet": "1.13",
             "dfAvgPerSet": "2.88",
             "bAvgPerSet": "2.44"
         },
@@ -4360,7 +4360,7 @@
             "b": "5#3#3#1#1#6",
             "b2": "1#1#7#4#4#6",
             "aceAvgPerSet": "1.48",
-            "dfAvgPerSet": "1.35",
+            "dfAvgPerSet": "1.83",
             "bAvgPerSet": "1.60"
         },
         "A": [
@@ -4468,9 +4468,9 @@
             "df2": "4#1#2#4#1#1",
             "b": "5#5#1#5#4#4",
             "b2": "6#1#4#5#0#0",
-            "aceAvgPerSet": "2.49",
-            "dfAvgPerSet": "2.20",
-            "bAvgPerSet": "1.64"
+            "aceAvgPerSet": "6.33",
+            "dfAvgPerSet": "3.00",
+            "bAvgPerSet": "1.72"
         },
         "stats2": {
             "ace": "7#3#0#4#2#1",
@@ -4480,7 +4480,7 @@
             "b": "6#4#1#4#5#2",
             "b2": "5#3#5#1#4#0",
             "aceAvgPerSet": "1.14",
-            "dfAvgPerSet": "1.58",
+            "dfAvgPerSet": "1.57",
             "bAvgPerSet": "1.65"
         },
         "A": [
@@ -4625,7 +4625,7 @@
             "b": "5#4#1#2#3#1",
             "b2": "1#2#1#5#1#1",
             "aceAvgPerSet": "3.81",
-            "dfAvgPerSet": "1.06",
+            "dfAvgPerSet": "1.40",
             "bAvgPerSet": "1.12"
         },
         "stats2": {
@@ -4744,8 +4744,8 @@
             "df2": "3#5#2#2#1#4",
             "b": "4#4#2#4#2#1",
             "b2": "0#0#3#1#0#0",
-            "aceAvgPerSet": "7.75",
-            "dfAvgPerSet": "1.78",
+            "aceAvgPerSet": "5.22",
+            "dfAvgPerSet": "1.65",
             "bAvgPerSet": "1.21"
         },
         "stats2": {
@@ -4757,7 +4757,7 @@
             "b2": "4#0#3#2#5#2",
             "aceAvgPerSet": "3.88",
             "dfAvgPerSet": "1.50",
-            "bAvgPerSet": "1.24"
+            "bAvgPerSet": "1.17"
         },
         "A": [
             {
@@ -4935,8 +4935,8 @@
             "b": "5#4#1#5#6#6",
             "b2": "3#0#4#0#4#5",
             "aceAvgPerSet": "1.98",
-            "dfAvgPerSet": "2.28",
-            "bAvgPerSet": "1.91"
+            "dfAvgPerSet": "2.12",
+            "bAvgPerSet": "1.83"
         },
         "stats2": {
             "ace": "0#0#1#1#0#3",
@@ -5054,9 +5054,9 @@
             "df2": "2#7#3#5#3#2",
             "b": "5#6#0#2#5#7",
             "b2": "1#5#3#0#4#4",
-            "aceAvgPerSet": "0.96",
-            "dfAvgPerSet": "1.65",
-            "bAvgPerSet": "2.00"
+            "aceAvgPerSet": "0.98",
+            "dfAvgPerSet": "1.93",
+            "bAvgPerSet": "3.50"
         },
         "stats2": {
             "ace": "1#4#3#5#7#5",
@@ -5065,8 +5065,8 @@
             "df2": "1#5#3#4#5#4",
             "b": "1#3#0#1#4#4",
             "b2": "5#3#4#5#5#3",
-            "aceAvgPerSet": "1.58",
-            "dfAvgPerSet": "2.44",
+            "aceAvgPerSet": "2.16",
+            "dfAvgPerSet": "2.95",
             "bAvgPerSet": "1.76"
         },
         "A": [
@@ -5174,8 +5174,8 @@
             "df2": "3#7#4#1#5#7",
             "b": "4#8#5#5#6#4",
             "b2": "1#7#2#1#2#7",
-            "aceAvgPerSet": "2.18",
-            "dfAvgPerSet": "2.08",
+            "aceAvgPerSet": "1.81",
+            "dfAvgPerSet": "1.97",
             "bAvgPerSet": "1.89"
         },
         "stats2": {
@@ -5185,7 +5185,7 @@
             "df2": "1#2#2#2#4#1",
             "b": "1#5#0#2#5#4",
             "b2": "4#1#4#1#0#5",
-            "aceAvgPerSet": "1.39",
+            "aceAvgPerSet": "2.00",
             "dfAvgPerSet": "1.97",
             "bAvgPerSet": "2.24"
         },
