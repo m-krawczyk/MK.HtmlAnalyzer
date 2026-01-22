@@ -1256,9 +1256,9 @@
     },
     {
         "id": 7,
-        "eventName": "Marie Bouzkova - Iga Świ ątek",
+        "eventName": "Marie Bouzkova - Iga Świątek",
         "p1": "Marie Bouzkova",
-        "p2": "Iga Świ ątek",
+        "p2": "Iga Świątek",
         "tags1": null,
         "tags2": null,
         "updateTime": "05:50",
@@ -1274,15 +1274,15 @@
             "bAvgPerSet": "1.98"
         },
         "stats2": {
-            "ace": null,
-            "ace2": null,
-            "df": null,
-            "df2": null,
-            "b": null,
-            "b2": null,
-            "aceAvgPerSet": null,
-            "dfAvgPerSet": null,
-            "bAvgPerSet": null
+            "ace": "3#6#2#0#3#6",
+            "ace2": "2#2#3#1#0#0",
+            "df": "3#2#3#1#0#2",
+            "df2": "0#2#4#3#5#6",
+            "b": "5#3#2#5#4#8",
+            "b2": "3#6#5#0#1#7",
+            "aceAvgPerSet": "1.55",
+            "dfAvgPerSet": "1.83",
+            "bAvgPerSet": "1.85"
         },
         "A": [
             {
